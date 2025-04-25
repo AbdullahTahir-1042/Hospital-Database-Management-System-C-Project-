@@ -26,8 +26,7 @@ Data Storage: hospital_database.txt
 How to Run
 Clone the repository or copy the files:
 
-git clone https://github.com/your-username/hospital-dbms.git
-cd hospital-dbms
+git clone https://github.com/AbdullahTahir-1042/Hospital-Database-Management-System-C-Project
 
 Compile the program:
 gcc hospital.c -o hospital
