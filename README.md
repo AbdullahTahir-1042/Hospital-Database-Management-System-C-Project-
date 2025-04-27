@@ -38,6 +38,7 @@ git clone https://github.com/AbdullahTahir-1042/Hospital-Database-Management-Sys
        ./hospital
 
 Sample 
+
 ![image](https://github.com/user-attachments/assets/1d62514c-2246-4864-a2eb-af1355617b85)
 
 
