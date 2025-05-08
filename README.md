@@ -32,7 +32,7 @@ git clone https://github.com/AbdullahTahir-1042/Hospital-Database-Management-Sys
 
 * Compile the program:
 
-       gcc hospital.c -o hospital
+       gcc project.c -o hospital
 * Run the executable:
 
        ./hospital
