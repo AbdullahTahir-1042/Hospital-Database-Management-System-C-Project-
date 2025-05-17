@@ -16,13 +16,13 @@ A simple console-based application built in C for managing patient records in a 
 👨‍⚕️ Easy-to-use terminal interface
 
 ## 🛠 Technologies Used
-Language: C
+* **Language**: C
 
-Compiler: GCC
+* **Compiler**: GCC
 
-File I/O: Standard file operations
+* **File I/O**: Standard file operations
 
-Data Storage: hospital_database.txt
+* **Data Storage**: hospital_database.txt
 
 ## How to Run
 * Clone the repository or copy the files:
