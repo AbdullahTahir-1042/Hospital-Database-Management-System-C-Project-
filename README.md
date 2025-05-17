@@ -3,7 +3,6 @@
 A simple console-based application built in C for managing patient records in a hospital. It provides functionalities to add, display, search, and delete patient records, all stored in a text file.
 
 ## 📋 Features
-
 ➕ Add new patient records
 
 📄 Display all patients
